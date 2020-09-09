@@ -4,8 +4,11 @@
 name: Python application
 
 on:
+  pull_request:
+    branches: 
+      - master
   schedule:
-    - cron: 27 14 * * *
+    - cron: 30 11 * * *
 
 jobs:
   build:
