@@ -24,5 +24,7 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: 3.8
-    - name: Install dependencies
-      run: python main.py
+    - name: run
+    - run: git config --global user.email "johnsonlee1126@163.com"
+    - run: git config --global user.name "Johnson"
+    - run: python main.py
