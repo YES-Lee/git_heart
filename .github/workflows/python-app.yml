@@ -7,7 +7,7 @@ env:
 
 on:
   schedule:
-    - cron: 21 2 * * *
+    - cron: 26 2 * * *
 
 jobs:
   build:
