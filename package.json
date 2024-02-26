@@ -1,6 +1,6 @@
 {
   "name": "git-heart",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[详细介绍：https://blog.csdn.net/l598465252/article/details/81100127](https://blog.csdn.net/l598465252/article/details/81100127)",
   "main": "index.js",
   "scripts": {
