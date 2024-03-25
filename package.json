@@ -1,6 +1,6 @@
 {
   "name": "git-heart",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "[详细介绍：https://blog.csdn.net/l598465252/article/details/81100127](https://blog.csdn.net/l598465252/article/details/81100127)",
   "main": "index.js",
   "scripts": {
@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/YES-Lee/git_heart.git"
+    "url": "git@github.com:YES-Lee/git_heart.git"
   },
-  "author": "",
+  "author": "Johnson <yeslee1126@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/YES-Lee/git_heart/issues"
